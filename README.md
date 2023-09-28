@@ -28,8 +28,8 @@ To get started with this project, follow these steps:
    cd netflix-originals-analysis
    
 Install the required libraries:
-pip install pandas numpy matplotlib
-Run the Jupyter Notebook or Python script to analyze the data and create visualizations.
+-pip install pandas numpy matplotlib
+-Run the Jupyter Notebook or Python script to analyze the data and create visualizations.
 
 Data Cleaning
 The data cleaning process involves handling missing values and converting date columns to the datetime format. We also removed rows with missing values to ensure data quality.
