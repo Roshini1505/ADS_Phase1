@@ -1,5 +1,5 @@
-# ADS_Phase1_ADS_Phase1_Project2-Predicting-IMDb-Scores
-7321- NANDHA COLLEGE OF TECHNOLOGY / ADS_Phase1_Project 2-Predicting IMDb Scores / BY Roshini S
+# ADS_Project2-Predicting-IMDb-Scores
+7321- NANDHA COLLEGE OF TECHNOLOGY / ADS_Project 2-Predicting IMDb Scores / BY Roshini S
 
 ## Table of Contents
 
