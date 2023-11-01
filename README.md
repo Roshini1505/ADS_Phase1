@@ -1,4 +1,4 @@
-# ADS-Predicting-IMDb-Scores
+# ADS_Predicting-IMDb-Scores
 7321- NANDHA COLLEGE OF TECHNOLOGY / ADS_Project 2-Predicting IMDb Scores / BY Roshini S
 
 ## Table of Contents
